@@ -8,6 +8,7 @@ import android.webkit.WebView;
 
 /**
  * Created by hckr1 on 28-05-2015.
+ * Webview created to block the itraveller placeholder in playstore
  */
 public class WebViewClass extends Activity {
 
